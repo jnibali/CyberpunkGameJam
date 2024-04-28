@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/CyberpunkGameJam/Cyberpunkgamejam/Content/MyMaps/CyberpunkGameJam.umap",
+				"F:/CyberpunkGameJam/Cyberpunkgamejam/Content/FirstPerson/Blueprints/Interactables/Laptop_Screen.uasset",
+				"F:/CyberpunkGameJam/Cyberpunkgamejam/Content/FirstPerson/Blueprints/Interactables/Laptop_Widget.uasset",
+				"F:/CyberpunkGameJam/Cyberpunkgamejam/Content/FirstPerson/Blueprints/WidgetInterface.uasset",
 				"F:/CyberpunkGameJam/Content/MyMaps/CyberpunkGameJam.umap",
 				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/TestBlock.uasset",
