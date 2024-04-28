@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/CyberpunkGameJam/Content/MyMaps/CyberpunkGameJam.umap",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/TestBlock.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/CameraMove.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/CameraMoveBox.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/CameraPosistion.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/Widjets/MovePrompt.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/Interactables/Interactable_Bottle.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"F:/CyberpunkGameJam/Content/Cursor/cursor-grab-icon-1006x1024-28w5ux8j.uasset",
+				"F:/CyberpunkGameJam/Content/Cursor/download.uasset",
+				"F:/CyberpunkGameJam/Content/Cursor/Grab_Cursor.uasset",
+				"F:/CyberpunkGameJam/Content/Cursor/Drag_Cursor.uasset",
+				"F:/CyberpunkGameJam/Content/Cursor/pngaaa_com-5263376.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/A_black_image.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/DialougeComponents/Interact_Dialouge/AC_Dialogue_Base.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/DialougeComponents/Interact_Dialouge/AC_Dialouge_Test.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/W_Dialouge.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/1493949937520.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/5279357-5225196-art-litho-doom-spacemarine-full-updated.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/Interactables/Interactable_Bottle1.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/W_Player_Dialouge.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/DialougeComponents/Interact_Dialouge/AC_Player_Base.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/W_Dialouge_Option.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/DialougeComponents/Interact_Dialouge/AC_Player_Bottle.uasset",
+				"F:/CyberpunkGameJam/Content/DialogueBP/W_Player_Option.uasset",
+				"F:/CyberpunkGameJam/Content/FirstPerson/Blueprints/Widjets/Objective_Widget.uasset"
+			]
+		}
+	]
+}
